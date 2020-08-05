@@ -1,0 +1,13 @@
+C:\Users\PREDATOR\source\repos\Methods\GetMaxFromThree\bin\Debug\netcoreapp3.1\GetMaxFromThree.exe
+C:\Users\PREDATOR\source\repos\Methods\GetMaxFromThree\bin\Debug\netcoreapp3.1\GetMaxFromThree.deps.json
+C:\Users\PREDATOR\source\repos\Methods\GetMaxFromThree\bin\Debug\netcoreapp3.1\GetMaxFromThree.runtimeconfig.json
+C:\Users\PREDATOR\source\repos\Methods\GetMaxFromThree\bin\Debug\netcoreapp3.1\GetMaxFromThree.runtimeconfig.dev.json
+C:\Users\PREDATOR\source\repos\Methods\GetMaxFromThree\bin\Debug\netcoreapp3.1\GetMaxFromThree.dll
+C:\Users\PREDATOR\source\repos\Methods\GetMaxFromThree\bin\Debug\netcoreapp3.1\GetMaxFromThree.pdb
+C:\Users\PREDATOR\source\repos\Methods\GetMaxFromThree\obj\Debug\netcoreapp3.1\GetMaxFromThree.csprojAssemblyReference.cache
+C:\Users\PREDATOR\source\repos\Methods\GetMaxFromThree\obj\Debug\netcoreapp3.1\GetMaxFromThree.AssemblyInfoInputs.cache
+C:\Users\PREDATOR\source\repos\Methods\GetMaxFromThree\obj\Debug\netcoreapp3.1\GetMaxFromThree.AssemblyInfo.cs
+C:\Users\PREDATOR\source\repos\Methods\GetMaxFromThree\obj\Debug\netcoreapp3.1\GetMaxFromThree.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\source\repos\Methods\GetMaxFromThree\obj\Debug\netcoreapp3.1\GetMaxFromThree.dll
+C:\Users\PREDATOR\source\repos\Methods\GetMaxFromThree\obj\Debug\netcoreapp3.1\GetMaxFromThree.pdb
+C:\Users\PREDATOR\source\repos\Methods\GetMaxFromThree\obj\Debug\netcoreapp3.1\GetMaxFromThree.genruntimeconfig.cache

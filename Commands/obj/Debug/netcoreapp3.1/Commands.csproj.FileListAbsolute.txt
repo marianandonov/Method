@@ -1,0 +1,13 @@
+C:\Users\PREDATOR\source\repos\Methods\Commands\bin\Debug\netcoreapp3.1\Commands.exe
+C:\Users\PREDATOR\source\repos\Methods\Commands\bin\Debug\netcoreapp3.1\Commands.deps.json
+C:\Users\PREDATOR\source\repos\Methods\Commands\bin\Debug\netcoreapp3.1\Commands.runtimeconfig.json
+C:\Users\PREDATOR\source\repos\Methods\Commands\bin\Debug\netcoreapp3.1\Commands.runtimeconfig.dev.json
+C:\Users\PREDATOR\source\repos\Methods\Commands\bin\Debug\netcoreapp3.1\Commands.dll
+C:\Users\PREDATOR\source\repos\Methods\Commands\bin\Debug\netcoreapp3.1\Commands.pdb
+C:\Users\PREDATOR\source\repos\Methods\Commands\obj\Debug\netcoreapp3.1\Commands.csprojAssemblyReference.cache
+C:\Users\PREDATOR\source\repos\Methods\Commands\obj\Debug\netcoreapp3.1\Commands.AssemblyInfoInputs.cache
+C:\Users\PREDATOR\source\repos\Methods\Commands\obj\Debug\netcoreapp3.1\Commands.AssemblyInfo.cs
+C:\Users\PREDATOR\source\repos\Methods\Commands\obj\Debug\netcoreapp3.1\Commands.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\source\repos\Methods\Commands\obj\Debug\netcoreapp3.1\Commands.dll
+C:\Users\PREDATOR\source\repos\Methods\Commands\obj\Debug\netcoreapp3.1\Commands.pdb
+C:\Users\PREDATOR\source\repos\Methods\Commands\obj\Debug\netcoreapp3.1\Commands.genruntimeconfig.cache

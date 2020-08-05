@@ -1,0 +1,13 @@
+C:\Users\PREDATOR\source\repos\Methods\CheckNeighbours\bin\Debug\netcoreapp3.1\CheckNeighbours.exe
+C:\Users\PREDATOR\source\repos\Methods\CheckNeighbours\bin\Debug\netcoreapp3.1\CheckNeighbours.deps.json
+C:\Users\PREDATOR\source\repos\Methods\CheckNeighbours\bin\Debug\netcoreapp3.1\CheckNeighbours.runtimeconfig.json
+C:\Users\PREDATOR\source\repos\Methods\CheckNeighbours\bin\Debug\netcoreapp3.1\CheckNeighbours.runtimeconfig.dev.json
+C:\Users\PREDATOR\source\repos\Methods\CheckNeighbours\bin\Debug\netcoreapp3.1\CheckNeighbours.dll
+C:\Users\PREDATOR\source\repos\Methods\CheckNeighbours\bin\Debug\netcoreapp3.1\CheckNeighbours.pdb
+C:\Users\PREDATOR\source\repos\Methods\CheckNeighbours\obj\Debug\netcoreapp3.1\CheckNeighbours.csprojAssemblyReference.cache
+C:\Users\PREDATOR\source\repos\Methods\CheckNeighbours\obj\Debug\netcoreapp3.1\CheckNeighbours.AssemblyInfoInputs.cache
+C:\Users\PREDATOR\source\repos\Methods\CheckNeighbours\obj\Debug\netcoreapp3.1\CheckNeighbours.AssemblyInfo.cs
+C:\Users\PREDATOR\source\repos\Methods\CheckNeighbours\obj\Debug\netcoreapp3.1\CheckNeighbours.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\source\repos\Methods\CheckNeighbours\obj\Debug\netcoreapp3.1\CheckNeighbours.dll
+C:\Users\PREDATOR\source\repos\Methods\CheckNeighbours\obj\Debug\netcoreapp3.1\CheckNeighbours.pdb
+C:\Users\PREDATOR\source\repos\Methods\CheckNeighbours\obj\Debug\netcoreapp3.1\CheckNeighbours.genruntimeconfig.cache
