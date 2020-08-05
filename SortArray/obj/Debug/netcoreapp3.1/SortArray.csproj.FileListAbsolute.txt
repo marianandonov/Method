@@ -1,0 +1,13 @@
+C:\Users\PREDATOR\source\repos\Methods\SortArray\bin\Debug\netcoreapp3.1\SortArray.exe
+C:\Users\PREDATOR\source\repos\Methods\SortArray\bin\Debug\netcoreapp3.1\SortArray.deps.json
+C:\Users\PREDATOR\source\repos\Methods\SortArray\bin\Debug\netcoreapp3.1\SortArray.runtimeconfig.json
+C:\Users\PREDATOR\source\repos\Methods\SortArray\bin\Debug\netcoreapp3.1\SortArray.runtimeconfig.dev.json
+C:\Users\PREDATOR\source\repos\Methods\SortArray\bin\Debug\netcoreapp3.1\SortArray.dll
+C:\Users\PREDATOR\source\repos\Methods\SortArray\bin\Debug\netcoreapp3.1\SortArray.pdb
+C:\Users\PREDATOR\source\repos\Methods\SortArray\obj\Debug\netcoreapp3.1\SortArray.AssemblyInfoInputs.cache
+C:\Users\PREDATOR\source\repos\Methods\SortArray\obj\Debug\netcoreapp3.1\SortArray.AssemblyInfo.cs
+C:\Users\PREDATOR\source\repos\Methods\SortArray\obj\Debug\netcoreapp3.1\SortArray.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\source\repos\Methods\SortArray\obj\Debug\netcoreapp3.1\SortArray.dll
+C:\Users\PREDATOR\source\repos\Methods\SortArray\obj\Debug\netcoreapp3.1\SortArray.pdb
+C:\Users\PREDATOR\source\repos\Methods\SortArray\obj\Debug\netcoreapp3.1\SortArray.genruntimeconfig.cache
+C:\Users\PREDATOR\source\repos\Methods\SortArray\obj\Debug\netcoreapp3.1\SortArray.csprojAssemblyReference.cache

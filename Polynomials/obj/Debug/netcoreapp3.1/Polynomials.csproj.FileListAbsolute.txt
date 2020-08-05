@@ -1,0 +1,13 @@
+C:\Users\PREDATOR\source\repos\Methods\Polynomials\bin\Debug\netcoreapp3.1\Polynomials.exe
+C:\Users\PREDATOR\source\repos\Methods\Polynomials\bin\Debug\netcoreapp3.1\Polynomials.deps.json
+C:\Users\PREDATOR\source\repos\Methods\Polynomials\bin\Debug\netcoreapp3.1\Polynomials.runtimeconfig.json
+C:\Users\PREDATOR\source\repos\Methods\Polynomials\bin\Debug\netcoreapp3.1\Polynomials.runtimeconfig.dev.json
+C:\Users\PREDATOR\source\repos\Methods\Polynomials\bin\Debug\netcoreapp3.1\Polynomials.dll
+C:\Users\PREDATOR\source\repos\Methods\Polynomials\bin\Debug\netcoreapp3.1\Polynomials.pdb
+C:\Users\PREDATOR\source\repos\Methods\Polynomials\obj\Debug\netcoreapp3.1\Polynomials.csprojAssemblyReference.cache
+C:\Users\PREDATOR\source\repos\Methods\Polynomials\obj\Debug\netcoreapp3.1\Polynomials.AssemblyInfoInputs.cache
+C:\Users\PREDATOR\source\repos\Methods\Polynomials\obj\Debug\netcoreapp3.1\Polynomials.AssemblyInfo.cs
+C:\Users\PREDATOR\source\repos\Methods\Polynomials\obj\Debug\netcoreapp3.1\Polynomials.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\source\repos\Methods\Polynomials\obj\Debug\netcoreapp3.1\Polynomials.dll
+C:\Users\PREDATOR\source\repos\Methods\Polynomials\obj\Debug\netcoreapp3.1\Polynomials.pdb
+C:\Users\PREDATOR\source\repos\Methods\Polynomials\obj\Debug\netcoreapp3.1\Polynomials.genruntimeconfig.cache
